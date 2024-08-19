@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GalleryApp</string>
+
+    <string name="rabbit_name">A Black Rabbit</string>
+    <string name="rabbit_desc">A rabbit nibbling on a plant.</string>
+
+    <string name="dog_name">A Poodle Husky Mix</string>
+    <string name="dog_desc">A dog smiling for the camera.</string>
+
+    <string name="cat_name">Two Calico Cats</string>
+    <string name="cat_desc">Two cats sitting next to each other.</string>
+</resources>
